@@ -12,3 +12,5 @@
 <li>all users can manage their own accounts</li>
 
 </ul>
+<h5>email: admin@gmail.com</h5>
+<h5>password: a12345678
